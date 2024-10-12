@@ -31,7 +31,7 @@ flutter run
 -----
 
 ## Contributing
-Guidelines for contributing to your project.
+Guidelines for contributing to the project.
 
 * Fork the repository.
 * Create a new branch.
