@@ -13,7 +13,9 @@
 
 ## Installation
 # Clone the repository
+```
 git clone https://github.com/yousef-shaman/registring_items.git
+```
 
 # Navigate to the project directory
 ```
