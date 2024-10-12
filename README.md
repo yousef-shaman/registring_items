@@ -8,6 +8,7 @@
 ## Table of Contents
 * Installation
 * Usage
+* Contributing
 * Contact
 
 ## Installation
